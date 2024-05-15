@@ -1,0 +1,4 @@
+The derivative of
+dx/x is equal to
+lnx
+emi
